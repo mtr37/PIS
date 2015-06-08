@@ -11,6 +11,7 @@ namespace PS1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello FESB"); //KOMENTAR: blablalbalblslglfg...
+            Console.WriteLine("Hello odoric"); // dodao ivan todoric
 
         }
     }
